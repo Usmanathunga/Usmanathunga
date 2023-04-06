@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanathunga&label=Profile%20views&color=0e75b6&style=flat" alt="usmanathunga" /> </p>
 
-- 🌱 I’m currently learning **React , Machine Learning , Deep Learning**
+- 🌱 I’m currently learning **React , Spring Boot , Machine Learning , Deep Learning**
 
 - 📫 How to reach me **udarasudeepa8@gmail.com**
 
